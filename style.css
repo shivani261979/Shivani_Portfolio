@@ -47,6 +47,10 @@ li a {
     list-style-type: disc;
 }
 
+.card-header{
+    background-color: rgb(195, 206, 221);
+}
+
 
 .contactForm{
     width: 90%;
